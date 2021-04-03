@@ -1,0 +1,5 @@
+This is a local repo file for anil kumar ., just to keep notes of my work.
+
+This file must not be a part of the central code repository ie on GitHub
+
+-- Created main.java file as part of version 1.0 , which is a simple Hello World Print Program  -- status:Completed working tested
