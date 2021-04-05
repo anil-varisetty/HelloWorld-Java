@@ -15,5 +15,13 @@ class Simple
      {
           return a+b;
      }
+
+     public static int SUBBY(int a, int b)
+     {
+          return a-b;
+     }
+
+
+
 }
 
